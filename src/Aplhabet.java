@@ -10,6 +10,7 @@ public class Aplhabet
 				if(i == 0||j ==0 ||(i == 4 && j<=2)||(j==2 && i>=2) || (i==2 && j>=2)||(j==4 && i>=2))
 				{
 					System.out.print("* ");
+					System.out.print("* ");
 				}
 				else
 				{
